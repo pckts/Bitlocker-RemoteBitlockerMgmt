@@ -1,0 +1,2 @@
+# RemoteBitlockerMgmtScript
+Please read readme.
