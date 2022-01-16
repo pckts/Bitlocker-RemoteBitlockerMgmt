@@ -1,4 +1,4 @@
-# RemoteBitlockerMgmtScript
+# Bitlocker-RemoteBitlockerMgmt
 
 A powershell script/tool for remotely managing bitlocker, technically also has the ability to control bitlocker on the local host, but thats not the point of the script.
 
